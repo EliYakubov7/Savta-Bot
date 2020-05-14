@@ -38,5 +38,5 @@ Go to **File -> New -> Project from Version Control -> Git**
 
 ## Authors
 
-* **Eliyahu Yakubov** - *Initial work* - [Eliyahu Github](https://github.com/EliYakubov7)
+* **Eliyahu Yakubov** - *Initial work* - [Eliyahu Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
 * **Gal Reshef S** - *Initial work* - [Gal Github](https://github.com/galsreshef)
