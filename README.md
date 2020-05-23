@@ -38,10 +38,11 @@ Go to **File -> New -> Project from Version Control -> Git**
 
 ## Screenshots
 
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/splash_screen.png" width="400">  
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/settings.png" width="400">  
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/microphone.png" width="400">  
-<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/chat_box.png" width="400">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/splash_screen.png" width="400">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/settings.png" width="400">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/microphone.png" width="400">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/chat_box.png" width="400">  
+
 ## Authors
 
 * **Eliyahu Yakubov** - *Initial work* - [Eliyahu Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
