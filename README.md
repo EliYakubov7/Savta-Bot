@@ -38,10 +38,10 @@ Go to **File -> New -> Project from Version Control -> Git**
 
 ## Screenshots
 
-<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/splash_screen.png" width="400">  
-<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/settings.png" width="400">  
-<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/microphone.png" width="400">  
-<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/chat_box.png" width="400">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/splash_screen.png" width="250">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/settings.png" width="250">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/microphone.png" width="250">  
+<img src="https://github.com/EliYakubov7/SavtaBot/blob/master/screenshots/chat_box.png" width="250">  
 
 ## Authors
 
