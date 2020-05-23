@@ -36,6 +36,12 @@ Go to **File -> New -> Project from Version Control -> Git**
 - In MainActivity.java <line 81> past your access token.
 - Run application.
 
+## Screenshots
+
+<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/splash_screen.png" width="400">  
+<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/settings.png" width="400">  
+<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/microphone.png" width="400">  
+<img src="https://github.com/EliYakubov7/Weather-News/blob/master/screenshots/chat_box.png" width="400">  
 ## Authors
 
 * **Eliyahu Yakubov** - *Initial work* - [Eliyahu Github](https://github.com/EliYakubov7), [Linkedin](https://www.linkedin.com/in/eli-yakubov-961908173)
